@@ -9,7 +9,7 @@
   
   inputs.src-faker-v0_13_0.flake = false;
   inputs.src-faker-v0_13_0.owner = "jiro4989";
-  inputs.src-faker-v0_13_0.ref   = "refs/tags/v0.13.0";
+  inputs.src-faker-v0_13_0.ref   = "v0_13_0";
   inputs.src-faker-v0_13_0.repo  = "faker";
   inputs.src-faker-v0_13_0.type  = "github";
   
