@@ -11,6 +11,7 @@
   inputs.src-faker-v0_15_2.ref   = "refs/tags/v0.15.2";
   inputs.src-faker-v0_15_2.owner = "jiro4989";
   inputs.src-faker-v0_15_2.repo  = "faker";
+  inputs.src-faker-v0_15_2.dir   = "";
   inputs.src-faker-v0_15_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

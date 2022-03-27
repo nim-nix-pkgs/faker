@@ -11,6 +11,7 @@
   inputs.src-faker-develop.ref   = "refs/heads/develop";
   inputs.src-faker-develop.owner = "jiro4989";
   inputs.src-faker-develop.repo  = "faker";
+  inputs.src-faker-develop.dir   = "";
   inputs.src-faker-develop.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
